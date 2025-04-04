@@ -1,0 +1,20 @@
+[
+    {
+        "company": "Toyota",
+        "model": "Camry",
+        "date_of_sale": "2024-01-15",
+        "price": 22000
+    },
+    {
+        "company": "Honda",
+        "model": "Civic",
+        "date_of_sale": "2023-11-30",
+        "price": 21000
+    },
+    {
+        "company": "Ford",
+        "model": "F-150",
+        "date_of_sale": "2022-08-21",
+        "price": 30000
+    }
+]
